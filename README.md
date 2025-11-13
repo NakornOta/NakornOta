@@ -1,4 +1,4 @@
-Hi ![](https://i.pinimg.com/originals/38/ac/10/38ac1029f3525ac9d5571727d881d301.gif) My name is Nakorn Chantathong
+Hi <img src="https://i.pinimg.com/originals/38/ac/10/38ac1029f3525ac9d5571727d881d301.gif" width="25"> My name is Nakorn Chantathong
 ===========================================================================================================================================
 
 Computer Engineer Student Kosen Kmitl
