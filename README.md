@@ -4,10 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer Student Kosen Kmitl
 -------------------------------------
 
-<a><img src="https://i.pinimg.com/originals/38/ac/10/38ac1029f3525ac9d5571727d881d301.gif" alt="Decorative Animation" title="Decorative Animation" width="36" height="36" />
-</a>
+<a><img src="https://i.pinimg.com/originals/38/ac/10/38ac1029f3525ac9d5571727d881d301.gif" alt="Decorative Animation" title="Decorative Animation" width="36" height="36" /></a>
 
-I am working on a project about BNK48 that uses data analytics and AI. In the future, I plan to present it through an app, or a website.
+I am working on a project about BNK48 that uses data analytics and AI. In the future, I plan to present it through an app, or a website.<a><img src="https://i.pinimg.com/originals/38/ac/10/38ac1029f3525ac9d5571727d881d301.gif" alt="Decorative Animation" title="Decorative Animation" width="36" height="36" /></a>
 
 * 🌍  I'm based in Samutprakan
 * ✉️  You can contact me at [67991010@kmitl.ac.th](mailto:67991010@kmitl.ac.th)
