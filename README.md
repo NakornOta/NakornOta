@@ -21,4 +21,4 @@ I am working on a project about BNK48 that uses data analytics and AI. In the fu
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> Kod :DDDD
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -- //Kod :DDDD> 
